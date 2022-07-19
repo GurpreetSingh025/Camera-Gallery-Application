@@ -1,0 +1,5 @@
+It has a Camera feature that is used to record videos and Capture Photos .
+Recorded Videos and Capturing Photos will then Stored in Gallery .
+Recorded Videos And Photos Stored In Gallery Can Be Downloaded Or Deleted .
+IndexedDB Is Used To Store Recorded Videos And Caturped Photos.
+WEB API'S Such As Navigation And IndexedDB Are Used In This Project.
